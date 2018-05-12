@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '26546'
     url: http://www.gutenberg.org/2009/agents/26546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24513#Cricket-at-the-Seashore
 gutenberg_issued: '2008-02-04'
 gutenberg_type: Text
 identifiers:
